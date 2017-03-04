@@ -1,4 +1,3 @@
-#### Grasp patch dataset ####
 Instructions to download and display the Patch dataset used in training grasping network in
 https://arxiv.org/pdf/1609.09025v1.pdf
 
