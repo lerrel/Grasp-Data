@@ -10,7 +10,6 @@ https://arxiv.org/pdf/1609.09025v1.pdf
 ```
 The dataset contains 3 folders: Train, Validation and Test.
 Each of these folders contains folders for positive (successful grasps) and negative (unsuccessful) data. Each of these folders contain a folder Images that contains the patches and a text file dataInfo.txt that contains names of patch and corresponding grasp angle attempted.
-
 2. Read the dataset with python visualization code:
 ```
 	$$ cd Patch_Dataset
