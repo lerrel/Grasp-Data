@@ -1,7 +1,8 @@
 #### Grasp patch dataset ####
 Instructions to download and display the Patch dataset used in training grasping network in
 https://arxiv.org/pdf/1609.09025v1.pdf
-
+1. 
+2.
 1. Download the dataset:
 ```
 	wget https://www.dropbox.com/s/652sken7f5hqi68/Patch_Dataset.tar.gz
