@@ -40,7 +40,7 @@ def process_and_draw_rect(I, grasp_angle, new_size = 500):
 
 ## Reset dataset path if path is not set
 if grasp_patch_path is 'PATH_TO_DATASET':
-    grasp_patch_path = os.path.dirname(os.path.abspath(__file__)) # Path to the dataset
+    grasp_patch_path = os.path.dirname(os.path.abspath(__file__))+'/data' # Path to the dataset
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--dat', type=str, default='Train', help='The dataset you want to display: Train, Test or Validation')
