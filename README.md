@@ -13,7 +13,7 @@ Each of these folders contains folders for positive (successful grasps) and nega
 
 **Read the dataset with python visualization code**
 ```
-python display_data.py --dat 'Train' --pos 1 --ran 0 --msec 1000
+python display_data.py --dat 'Train' --pos 1 --ran 1 --msec 1000
 ```
 
 Contact Lerrel Pinto lerrelpATcsDOTcmuDOTedu for more information.
