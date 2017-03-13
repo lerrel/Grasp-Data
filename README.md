@@ -16,4 +16,4 @@ wget https://www.dropbox.com/s/lfk1tk0532kblg3/display_data.py
 python display_data.py --dat 'Train' --pos 1 --ran 0 --msec 1000
 ```
 
-Contact Lerrel Pinto <lerrelp<at>cs<dot>cmu<dot>edu> for more information.
+Contact Lerrel Pinto lerrelpATcsDOTcmuDOTedu for more information.
